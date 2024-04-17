@@ -1,0 +1,4 @@
+Members: Shrey Ramesh, Nikhil Kagalwala
+
+Shrey Ramesh: Debugged insertRecord(), implemented scanNext() and debugged further testing issues
+Nikhil Kagalwala: Implemented createHeapFile(), HeapFile(), getRecord(), insertRecord()
